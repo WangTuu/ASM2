@@ -1,0 +1,370 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\gui\\borrowgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\borrowgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\dal\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\dal\\bookdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\dal\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\dal\\memberdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\gui\\registermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\registermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\registermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\registermember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\gui\\registerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\registerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\dal\\circulatedcopydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\dal\\circulatedcopydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\dal\\copydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\dal\\copydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\dal\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\dal\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\borrowgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\borrowgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\gui\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\maingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\statistic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\statistic.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\reservegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\reservegui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\gui\\registerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\registerbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|c:\\users\\admin\\downloads\\librarymanagementsystem-master(1)\\librarymanagementsystem-master\\librarymanagement_group2_project\\librarymanagement_group2_project\\gui\\returngui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\gui\\returngui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\dal\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\dal\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\librarymanagement_group2_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2130AAD-67D3-4CDF-8412-1005EC471CDB}|LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project.csproj|solutionrelative:librarymanagement_group2_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\Statistic.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\Statistic.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\Statistic.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\Statistic.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:10:23.533Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\MemberDAO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\DAL\\MemberDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\MemberDAO.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\DAL\\MemberDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:58:47.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\DAO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\DAL\\DAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\DAO.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\DAL\\DAO.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:58:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\BookDAO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\DAL\\BookDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\BookDAO.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\DAL\\BookDAO.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAqwHQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:38:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CirculatedCopyDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\CirculatedCopyDAO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\DAL\\CirculatedCopyDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\CirculatedCopyDAO.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\DAL\\CirculatedCopyDAO.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAEwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:58:15.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CopyDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\CopyDAO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\DAL\\CopyDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\CopyDAO.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\DAL\\CopyDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:44:59.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterBook.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAIwB0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:35:41.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:08:56.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterMember.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\RegisterMember.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAawLsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T15:04:08.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BorrowGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:05:26.924Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowGUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\BorrowGUI.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAgwKMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:39:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\MainGUI.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\MainGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\MainGUI.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\MainGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:13:04.578Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainGUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\MainGUI.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\MainGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\MainGUI.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\MainGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:05:39.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statistic.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\Statistic.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\Statistic.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\Statistic.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\Statistic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:10:30.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Statistic.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\Statistic.Designer.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\Statistic.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\Statistic.Designer.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\Statistic.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:10:17.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReserveGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\ReserveGUI.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\ReserveGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\ReserveGUI.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\ReserveGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:05:33.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReturnGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\ReturnGUI.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\ReturnGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\ReturnGUI.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\ReturnGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T14:05:31.672Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\ReservationDAO.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\DAL\\ReservationDAO.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\DAL\\ReservationDAO.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\DAL\\ReservationDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:58:58.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\App.config",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\App.config",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\App.config",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-03T14:57:27.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs [Design]",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\GUI\\RegisterBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:35:39.314Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement_Group2_Project\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\LibraryManagementSystem-master(1)\\LibraryManagementSystem-master\\LibraryManagement_Group2_Project\\LibraryManagement_Group2_Project\\Program.cs",
+              "RelativeToolTip": "LibraryManagement_Group2_Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:00:05.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
